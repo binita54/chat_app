@@ -107,7 +107,9 @@ This will start your FastAPI app at: http://127.0.0.1:8000
 To connect to the WebSocket (replace room_id with a real room):
 ws://localhost:8000/ws/{room_id}
 ```
-📧 Contact
+## 📧 Contact
+```
 Binita Ghale
 📩 ghalebinita54@gmail.com
 🔗 GitHub: binita54
+```
