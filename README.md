@@ -46,6 +46,7 @@ This is a simple **Chat Application** built using **FastAPI**, **WebSockets**, a
 - **Language:** Python 3.11+
 
 ---
+## 📂 Project Structure
 ```
 chat_app/
 │
