@@ -1,9 +1,4 @@
 # 💬 Chat App 
-
-Hi! I'm **Binita Ghale**, and this repository contains my completed tasks for the **Python Internship** at **Brahmabyte Lab**.
-
----
-
 ## 📌 Overview
 
 This is a simple **Chat Application** built using **FastAPI**, **WebSockets**, and **PostgreSQL**. It supports real-time messaging between users in chat rooms and includes JWT-based authentication. The app is structured with clean modular code and follows RESTful practices.
